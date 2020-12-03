@@ -6,4 +6,5 @@
 * Commit #4 - galewatch
 
 
-<a href="http://ec2-54-159-173-193.compute-1.amazonaws.com/dgaleally/cla-test2"><img src="http://ec2-54-159-173-193.compute-1.amazonaws.com/readme/badge/dgaleally/cla-test2" alt="CLA assistant" /></a>
+[CLA assistant](http://ec2-54-159-173-193.compute-1.amazonaws.com/dgaleally/cla-test2)
+![CLA assistant](http://ec2-54-159-173-193.compute-1.amazonaws.com/readme/badge/dgaleally/cla-test2)
